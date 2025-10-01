@@ -1,0 +1,28 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2023-05-23T23:08:45.487Z",
+  "last_modified_by_me": "2023-05-23T23:08:45.487Z",
+  "content_last_modified": "2023-05-23T23:08:45.487Z",
+  "created": "2023-05-23T23:08:07.243Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "冷蔵庫 nr_f603t_0.pdf",
+  "drive_id": "1Lna3sq-bYdIykMb1ixQqQT9mj__L26WF",
+  "mime_type": "application/pdf",
+  "download_url": "https://drive.google.com/file/d/1Lna3sq-bYdIykMb1ixQqQT9mj__L26WF/view?usp=drive_web",
+  "expected_item_size": 10575031
+}

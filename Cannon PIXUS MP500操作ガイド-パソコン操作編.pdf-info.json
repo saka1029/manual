@@ -1,0 +1,28 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2023-02-17T15:37:31Z",
+  "last_modified_by_me": "2023-02-17T15:37:31Z",
+  "content_last_modified": "2023-02-17T15:37:31Z",
+  "created": "2023-02-17T15:37:58.739Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "Cannon PIXUS MP500操作ガイド-パソコン操作編.pdf",
+  "drive_id": "1f5LFeBudI1_o7qiJfsUvb3IQ63cYeoIt",
+  "mime_type": "application/pdf",
+  "download_url": "https://drive.google.com/file/d/1f5LFeBudI1_o7qiJfsUvb3IQ63cYeoIt/view?usp=drive_web",
+  "expected_item_size": 11203506
+}

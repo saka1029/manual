@@ -1,0 +1,28 @@
+{
+  "starred": false,
+  "editors_can_edit_access": true,
+  "last_modified_by_any_user": "2022-06-28T11:49:57Z",
+  "last_modified_by_me": "2022-06-28T11:49:57Z",
+  "content_last_modified": "2022-06-28T11:49:57Z",
+  "created": "2022-06-28T11:50:14.858Z",
+  "permissions": [
+    {
+      "id": "08614820982092538975",
+      "name": "saka1029",
+      "type": "user",
+      "role": "owner",
+      "value": "saka1029@gmail.com",
+      "kind": "drive#permission",
+      "photo_link": "https://lh3.googleusercontent.com/a/ACg8ocJCpVG7OddCLAgT9FbDkq8ZBUeYfEawKwVlvCD8zKCQjrRaaDwa=s64",
+      "email_address": "saka1029@gmail.com",
+      "domain": "gmail.com",
+      "deleted": false,
+      "pending_owner": false
+    }
+  ],
+  "title": "SHARP洗濯機ES-GE6D.pdf",
+  "drive_id": "1i9Hki9SNw3KZwj1JeA3HMgTuo8Ymi3pk",
+  "mime_type": "application/pdf",
+  "download_url": "https://drive.google.com/file/d/1i9Hki9SNw3KZwj1JeA3HMgTuo8Ymi3pk/view?usp=drive_web",
+  "expected_item_size": 4267064
+}
